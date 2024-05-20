@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="gif">
+    <file>gifsample.gif</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/philippines-peso-currency-symbol.png</file>
+    <file>icons/buy-home.png</file>
+    <file>icons/contract.png</file>
+    <file>icons/home.png</file>
+    <file>icons/house.png</file>
+    <file>icons/key.png</file>
+    <file>icons/payment-method.png</file>
+  </qresource>
+</RCC>
